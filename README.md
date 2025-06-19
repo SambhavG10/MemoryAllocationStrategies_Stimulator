@@ -171,7 +171,7 @@ enter size 50
 
 ## 📸 Screenshots
 
-![Program Interface](Program_Interface .png)
+![Program Interface](Program_Interface.png)
 *Main menu interface showing allocation options*
 
 ![Memory Allocation](Allocation.png) 

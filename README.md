@@ -171,16 +171,16 @@ enter size 50
 
 ## 📸 Screenshots
 
-![Program Interface](screenshots/interface.png)
+![Program Interface](Program_Interface.png)
 *Main menu interface showing allocation options*
 
 ![Memory Allocation](Allocation.png) 
 *Memory state after allocating process P1 with size 50 , P2 with 60 and P3 with 30*
 
-![Memory Deallocation](screenshots/allocation.png) 
+![Memory Deallocation](Deallocation.png) 
 *Memory state after deallocating process P2 of size 60*
 
-![Memory Compaction](screenshots/compaction.png)
+![Memory Compaction](Compaction.png)
 *Memory layout before and after compaction operation*
 
 ## 📊 Features & Implementation

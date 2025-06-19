@@ -174,7 +174,7 @@ enter size 50
 ![Program Interface](screenshots/interface.png)
 *Main menu interface showing allocation options*
 
-![Memory Allocation](screenshots/allocation.png) 
+![Memory Allocation](Allocation.png) 
 *Memory state after allocating process P1 with size 50 , P2 with 60 and P3 with 30*
 
 ![Memory Deallocation](screenshots/allocation.png) 
